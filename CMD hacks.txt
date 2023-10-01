@@ -1,0 +1,42 @@
+ --: CMD Commands :--
+
+1) Change color 
+-> help color
+
+2) Change the Prompt
+-> help prompt
+-> prompt ___@_____$G
+
+3) Change Title
+-> title ______
+
+4) Hide a Folder
+-> Attrib +h +s +r _____
+
+5) Show a Folder
+-> Attrib -h -s -r _____
+
+6) Copy Output to Clipboard
+-> ipconfig | clip
+
+7) Watch StarsWarse Movie
+-> talnet towel.blinkenlights.nl
+
+8) Show History
+-> F7
+
+9) Create a Folder with reserved names (Like aux, con, etc.)
+-> md con\
+-> md aux\ 
+
+10) View all the installed programs on your PC
+-> wmic product get name
+
+11) Runing Man 
+-> color 2 & curl ascii.live/foreest
+
+12) Show All talnet commands
+-> talnet telehack.com
+
+13) Show WiFi connection
+-> arp -a
